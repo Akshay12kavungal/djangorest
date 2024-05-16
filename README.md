@@ -1,0 +1,2 @@
+# djangorest
+django rest practice
